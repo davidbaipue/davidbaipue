@@ -10,7 +10,7 @@
 ### 🔥 About Me
 
 > 💼 Full Stack Developer with a passion for building impactful web apps  
-> 🎓 I'm a BCA student & software engineer passionate about solving real-world problems with code.  
+> 🎓 I'm a Computer Science student & software engineer passionate about solving real-world problems with code.  
 > 🚀 2.5+ years of hands-on experience in dev & system design.  
 > 🌍 Based in Liberia 🇱🇷 (studying in India 🇮🇳)  
 > 🤝 Open to collaborating on impactful tech projects.
