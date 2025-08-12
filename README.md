@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm David Baipue</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 Problem Solver | 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 Problem Solver | 🤖 AI Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" />
