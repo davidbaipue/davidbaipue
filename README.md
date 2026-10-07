@@ -24,17 +24,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏫 **SchoolHub** | All-in-one school management system with chat, notifications, and offline support. | React, Node.js, MongoDB, Express |
-| 🛍 **LiberiaMart** | E-commerce platform for local Liberian businesses to sell online. | Next.js, Firebase, Tailwind |
-| 📊 **SmartEnergy** | IoT-powered dashboard for monitoring home energy consumption. | React, MQTT, Chart.js |
-| 🤝 **DecentraAid** | Transparent decentralized charity platform. | Solidity, Web3.js, React, IPFS |
-
-➡️ Want more? Check out [my portfolio](https://johndoe.dev) or [my GitHub Repos](https://github.com/johndoe?tab=repositories)
-
 ## 🎯 Highlight Projects
 
 | 🌟 Project | 💡 What I Built | 🔗 Links |
