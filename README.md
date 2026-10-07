@@ -37,12 +37,12 @@
 
 ## 🎯 Highlight Projects
 
-| 🌟 Project | 🚀 Tech | 🔗 Links |
-|-----------|---------|----------|
-| **SchoolHub** | React, MongoDB, Express | [View](https://github.com/johndoe/schoolhub) |
-| **LiberiaMart** | Next.js, Firebase, Tailwind | [Demo](https://liberiamart.vercel.app) |
-| **SmartEnergy** | React, IoT, MQTT | [GitHub](https://github.com/johndoe/smartenergy) |
-| **DecentraAid** | Solidity, Web3, IPFS | [Docs](https://decentraaid-docs.vercel.app) |
+| 🌟 Project | 💡 What I Built | 🔗 Links |
+|-----------|------------------|----------|
+| **Amrita Provost Research Portal** | Secure university research administration and workflow system | [Live Demo](https://am-amrita-provost.onrender.com/) |
+| **FRAM Group of Investment** | Investment-focused corporate web platform for presenting financial services and opportunities | [Live Demo](https://fram-group-of-investment.onrender.com/) |
+| **FinSight** | Financial analytics platform for exploring companies, financial performance, trends and investment insights | [Live Demo](https://finsight-kb3j.onrender.com/) |
+| **Amrita Students Fellowship Portal** | Student fellowship application and management platform for streamlining applications and review workflows | [Live Demo](https://amrita-students-fellowship-webapp-qyf6.onrender.com/) |
 
 
 ---
